@@ -185,6 +185,15 @@ body {
     height: 230px;
 }
 
+/* picture-2 in biography.html */
+#picture-2 {
+    border-radius: 5%;
+    background-color: #d9d9d9;
+    box-shadow: 0 5px 5px black;
+    width: 70vw;
+    height: auto;
+}
+
 /* Main content with info about Strzelecki*/
 .main-content {
     background-color: #d9d9d9;
@@ -206,6 +215,7 @@ body {
     line-height: 1.5;
 }
 
+/* figcaption */
 figcaption {
     font-size: 10px;
 }
