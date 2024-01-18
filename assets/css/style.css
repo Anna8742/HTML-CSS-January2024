@@ -194,6 +194,17 @@ body {
     height: auto;
 }
 
+/* world tour of map */
+#world-tour-map-image {
+    width: 44vw;
+    height: auto;
+    float: left;
+    padding-right: 1vw;
+    padding-bottom: 1vw;
+    padding-left: 3vw;
+    padding-top: 1vw;
+}
+
 /* Main content with info about Strzelecki*/
 .main-content {
     background-color: #d9d9d9;
@@ -332,6 +343,7 @@ figcaption {
         border: 0;
         transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
     }
+
     #menu-toggle:checked~.menu li {
         border: 1px solid #333;
         height: 2.5em;
@@ -363,11 +375,13 @@ figcaption {
         flex-direction: column;
 
     }
+
     .footerNav ul li {
         width: 100%;
         text-align: center;
         margin: 10px;
     }
+
     figcaption {
         display: none;
     }
