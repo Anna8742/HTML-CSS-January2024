@@ -205,3 +205,28 @@ body {
     color: #C0B283;
     opacity: 0.9;
 }
+
+/* footer navigator */
+.footerNav a {
+    text-decoration: none;
+    color: black;
+    font-size: calc(1vw + 1vh);
+}
+
+.footerNav ul {
+    display: flex;
+    justify-content: center;
+}
+
+.footerNav li {
+    list-style: none;
+    margin: 10px;
+}
+
+.footerNav a {
+    text-decoration: none;
+}
+
+.footerNav li:hover {
+    transform: translateY(-10px);
+}
