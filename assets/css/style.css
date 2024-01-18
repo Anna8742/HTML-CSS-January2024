@@ -200,9 +200,9 @@ body {
     height: auto;
     float: left;
     padding-right: 1vw;
-    padding-bottom: 1vw;
+    padding-bottom: 0;
     padding-left: 3vw;
-    padding-top: 1vw;
+    padding-top: 0;
 }
 
 #great-famine-picture {
