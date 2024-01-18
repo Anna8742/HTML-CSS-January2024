@@ -42,3 +42,17 @@ body {
 .wrapper>* {
     flex: 1 100%;
 }
+
+/* header */
+.header {
+    width: 100%;
+    background: #C0B283;
+    box-shadow: 0 5px 5px black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    padding: 1em;
+    font-size: calc(1vw + 1vh);
+}
