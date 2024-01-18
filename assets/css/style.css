@@ -91,7 +91,7 @@ body {
 
 .menu li:hover {
     transform: translateY(-10px);
-} 
+}
 
 .menu>li {
     margin: 0 1rem;
@@ -102,6 +102,7 @@ body {
 .menu-button {
     background-color: #C0B283;
 }
+
 /* button container */
 .menu-button-container {
     display: none;
@@ -184,6 +185,20 @@ body {
     height: 230px;
 }
 
+/* Main content with info about Strzelecki*/
+.main-content {
+
+    background-color: #d9d9d9;
+    width: 70%;
+    height: auto;
+    font-size: 16px;
+    border: 2px solid #c0b283;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 10px;
+    box-shadow: 0 3px 3px black;
+}
+
 /* footer */
 .footer {
     background-color: #C0B283;
@@ -249,16 +264,15 @@ body {
 /* footer bottom */
 .footerBottom {
     display: flex;
-        justify-content: center;
-        background-color: #d1c7a5;
-        text-align: center;
-        font-size: 14px;
-        width: 100%;
-    }
-    
-    #designer {
-        text-transform: uppercase;
-        padding-left: 5px;
-        font-size: 14px;
-    }
+    justify-content: center;
+    background-color: #d1c7a5;
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+}
 
+#designer {
+    text-transform: uppercase;
+    padding-left: 5px;
+    font-size: 14px;
+}
