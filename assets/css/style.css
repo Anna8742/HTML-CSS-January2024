@@ -67,7 +67,7 @@ body {
     font-size: 18px;
 }
 
-/* toggle menu inside of header */
+/* menu inside of header */
 .menu {
     display: flex;
     flex-direction: row;
@@ -77,16 +77,31 @@ body {
     background-color: #C0B283;
 }
 
-/* menu button */
-.menu-button {
-    background-color: #C0B283;
+
+
+.menu a.active {
+    text-decoration-line: underline;
+    font-size: 16px;
 }
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu li:hover {
+    transform: translateY(-10px);
+} 
 
 .menu>li {
     margin: 0 1rem;
     overflow: hidden;
 }
 
+/* menu button */
+.menu-button {
+    background-color: #C0B283;
+}
 /* button container */
 .menu-button-container {
     display: none;
