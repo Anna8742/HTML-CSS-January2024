@@ -346,3 +346,36 @@ figcaption {
 
     
 }
+
+/* Media queries for devices with <= 700px */
+@media (max-width: 700px) {
+
+    .footerNav ul {
+        flex-direction: column;
+
+    }
+
+    .footerNav ul li {
+        width: 100%;
+        text-align: center;
+        margin: 10px;
+    }
+
+    figcaption {
+        display: none;
+    }
+
+
+
+
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+
+
+@media screen and (min-width: 992px) {
+
+    .dropdown_menu {
+        display: none;
+    }
+}
