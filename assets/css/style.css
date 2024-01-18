@@ -324,7 +324,6 @@ figcaption {
 
 @media screen and (max-width: 600px) {
     #picture-1 {
-        border: 2% solid white;
         border-radius: 5%;
         background-color: #d9d9d9;
         box-shadow: 0 3px 3px black;
