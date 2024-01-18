@@ -215,7 +215,7 @@ body {
 }
 
 /* About me image*/
-.aboutme-image {
+#aboutme-image {
     width: 37vw;
     height: auto;
 }
