@@ -178,4 +178,5 @@ body {
     right: 0;
     height: 110px;
     width: 100%;
+    flex: 1;
 }
