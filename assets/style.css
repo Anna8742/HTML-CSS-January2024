@@ -67,9 +67,7 @@ body {
     font-size: 18px;
 }
 
-/* toggle menu inside of header
-showing when resizing the screen */
-
+/* toggle menu inside of header */
 .menu {
     display: flex;
     flex-direction: row;
@@ -105,6 +103,7 @@ showing when resizing the screen */
      display: none;
  }
 
+ /* toggle button */
  .menu-button,
  .menu-button::before,
  .menu-button::after {
