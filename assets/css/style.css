@@ -205,6 +205,15 @@ body {
     padding-top: 1vw;
 }
 
+#great-famine-picture {
+    border-radius: 5%;
+    background-color: #d9d9d9;
+    box-shadow: 0 5px 5px black;
+    width: 68vw;
+    height: auto;
+
+}
+
 /* Main content with info about Strzelecki*/
 .main-content {
     background-color: #d9d9d9;
