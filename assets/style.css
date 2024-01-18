@@ -27,17 +27,3 @@ body {
     display: flex;
     flex-direction: column;
 }
-
-/* wrapper */
-.wrapper {
-    align-items: center;
-    text-align: center;
-    min-height: 100%;
-    padding-bottom: 110px;
-    flex: 1;
-    justify-content: center;
-}
-/* initial size of elements inside of wrapper */
-.wrapper>* {
-     flex: 1 100%;
-}
