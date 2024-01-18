@@ -152,3 +152,19 @@ body {
 .navbar-link:hover {
     transform: translateY(-10px);
 }
+
+/* generic styles for image */
+.image {
+    padding: 0.5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* picture-1 in index.html */
+#picture-1 {
+    border-radius: 5%;
+    background-color: #d9d9d9;
+    box-shadow: 0 5px 5px black;
+    width: 200px;
+    height: 230px;
+}
