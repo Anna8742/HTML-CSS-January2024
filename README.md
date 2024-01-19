@@ -141,9 +141,33 @@ Links Testing:
   - incorrectly positioned videos in Media page
   - to fix it I moved the videos out of the footer
  
+    Known Bugs
+
+    HTML Smooth Scroll does not work on Safari browser
+    Favicon might not show in all versions of Safari browser
+
+
+TECHNOLOGIES USED:
+
+Languages:
+- HTML5
+- CSS
+
+  Programs:
+  -CamScanner - to take a photo of drawn framework and transfer it to the computer
+  - Responsinator - to verify responsiveness
+  - Chrome Dev Tools - to test performance
+  - Font Awesome - to import Social Media icons in footer
+  - GitHub - used for version control and hosting
+  - Google Fonts - used to import fonts into the site
+  - TinyPNG - used to compress image
+  - W3C - used for HTML and CSS validation
+  - 
     
  
     
+ 
+  
 
   
 
