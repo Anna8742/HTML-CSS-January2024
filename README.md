@@ -162,7 +162,34 @@ Languages:
   - Google Fonts - used to import fonts into the site
   - TinyPNG - used to compress image
   - W3C - used for HTML and CSS validation
-  - 
+
+
+  DEPLOYMENT:
+
+  The project was deployed using GitHub pages.
+  The steps to deploy using GitHub pages are:
+
+  Go to the repository on GitHub.com
+  Select 'Settings' near the top of the page.
+  Select 'Pages' from the menu bar on the left of the page.
+  Under 'Source' select the 'Branch' dropdown menu and select the main branch.
+  Once selected, click the 'Save'.
+  Deployment should be confirmed by a message on a green background saying "Your site is published at"     followed by the web address.
+
+  The live link to the deployment:
+  https://anna8742.github.io/HTML-CSS-January2024/
+
+  CREDITS:
+
+  Content
+  All content used about Strzelecki comes from Polish websites:
+
+  - Onet: https://podroze.onet.pl/ciekawe/pawel-edmund-strzelecki-polski-odkrywca-i-naukowiec-w-australii/s85vzm0
+ 
+  - To Historia: https://tohistoria.pl/pawel-edmund-strzelecki-polak-ktory-ocalil-tysiace-irlandczykow/
+
+
+  
     
  
     
