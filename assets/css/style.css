@@ -26,6 +26,7 @@ body {
     box-sizing: inherit;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 /* wrapper */
@@ -64,7 +65,8 @@ body {
     padding: 20px;
     padding-bottom: 25px;
     letter-spacing: 1px;
-    font-size: 18px;
+    font-size: 1.125rem;
+   
 }
 
 /* menu inside of header */
@@ -81,7 +83,8 @@ body {
 
 .menu a.active {
     text-decoration-line: underline;
-    font-size: 16px;
+    font-size: 1rem;
+    
 }
 
 .menu a {
@@ -89,9 +92,7 @@ body {
     color: black;
 }
 
-.menu li:hover {
-    transform: translateY(-10px);
-}
+
 
 .menu>li {
     margin: 0 1rem;
@@ -152,11 +153,7 @@ body {
     transform: rotate(-405deg);
 }
 
-/* menu active */
-.menu a.active {
-    text-decoration-line: underline;
-    font-size: 16px;
-}
+
 
 /* remove underlines from hyperlinks*/
 .menu a {
@@ -214,7 +211,18 @@ body {
     height: auto;
 }
 
+/*Video */
+.video {
+    width: 100%;
+    height: auto;
+    border: 0px solid transparent;
+    position: relative;
+}
 
+/* feedback */
+#feedback {
+        margin-top: 40px;
+}
 
 /* Main content with info about Strzelecki*/
 .main-content {
