@@ -136,8 +136,8 @@ Links Testing:
     - Family members were asked to review the site and documentation to point out bugs and issues.
    
   Fixed bugs:
-  - The '<figcaption>' was surrounded with <div> as a child element.
-  - I fixed <figcaption>  by inserting it into '<figure>'.
+  - The figcaption was surrounded with div as a child element, displaying it incorrectly.
+  - I fixed figcaption  by inserting it into figure>.
   - The videos in Media page were incorrectly positioned.
   - I fixed the videos by adding extra margin-top.
  
