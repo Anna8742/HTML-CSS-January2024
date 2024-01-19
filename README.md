@@ -10,3 +10,11 @@ SITE OWNER GOALS:
 - To allow user watch a video about Strzelecki in Ireland and leave a feedback.
 
   
+USER STORIES:
+
+- As a first time user I want to understand the main purpose of the site and learn about Strzelecki
+- As a first time user I want to be able to intuitively navigate the website
+- As a first time user I want to be able to read the information without having to register
+
+- 
+  
