@@ -24,5 +24,23 @@ FREQUENT USER:
 
 - I want to be able to leave feedback and see if that had an impact on change of the website and its content
 
+  DESIGN:
+
+  -Imagery
+  The imagery used on the website is there to help the user visualize the look of the Strzelecki. The   image of Great Famine is to show the cruelty of that period.
+
+  -Colours
+  The colour scheme gold and paperwhite cotransts well, and helps to read the website easily, goes well together and create simplistic look.
+ 
+    -Fonts
+  'Noto Serif' is the main font used on the whole website, it was importent from Google Fonts. As a backup serif font  is used.
+
+  
+  
+ 
+  
+
+  
+
   
   
