@@ -187,6 +187,17 @@ Languages:
   - Onet: https://podroze.onet.pl/ciekawe/pawel-edmund-strzelecki-polski-odkrywca-i-naukowiec-w-australii/s85vzm0
  
   - To Historia: https://tohistoria.pl/pawel-edmund-strzelecki-polak-ktory-ocalil-tysiace-irlandczykow/
+ 
+    Media:
+
+    All images and videos are sources from the below websites with thanks to the photographes/videographes:
+
+    - Wikipedia - Government Printing Office
+    - www.museum.ie - Museum of Ireland
+    - https://www.potatonewstoday.com/ - Lukie Pieterse
+     - Unsplash - Ian Schneider
+    - Youtube - Áras an Uachtaráin
+    - Youtube - Fota House Cork
 
 
   
