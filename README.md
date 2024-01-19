@@ -35,6 +35,19 @@ FREQUENT USER:
     -Fonts
   'Noto Serif' is the main font used on the whole website, it was importent from Google Fonts. As a backup serif font  is used.
 
+  WIREFRAMES
+
+  Wireframes are handwritten and scanned with CamScanner:
+
+  - Desktop:
+[desktop-wireframe.pdf](https://github.com/Anna8742/HTML-CSS-January2024/files/13983807/desktop-wireframe.pdf)
+
+- Mobile:
+- [phone-wireframe.pdf](https://github.com/Anna8742/HTML-CSS-January2024/files/13983811/phone-wireframe.pdf)
+
+
+    
+
   
   
  
