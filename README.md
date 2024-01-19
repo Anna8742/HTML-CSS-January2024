@@ -198,7 +198,17 @@ Languages:
      - Unsplash - Ian Schneider
     - Youtube - Áras an Uachtaráin
     - Youtube - Fota House Cork
-    - http://mtkosciuszko.org.au/ 
+    - http://mtkosciuszko.org.au/
+   
+  Resources used:
+
+  - Inspiration for toggle menu bar: https://codepen.io/fabran99/pen/rReeJE
+  - Inspiration for form: https://www.w3schools.com/tags/tag_textarea.asp
+ 
+    Acknowledgments
+
+   My mentor Antonio for his support and advice.
+  The Code Institute slack community for their quick responses and very helpful feedback!
 
 
   
