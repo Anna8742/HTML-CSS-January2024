@@ -131,6 +131,18 @@ Links Testing:
   - The website was viewed on Desktop, Laptop, iPhone XR and Pixel 7 to ensure responsiveness on different screens, it performed as intended. It was also checked with Chrome developer.
   - Responsinator was also used to test responsiveness.
  
+    Friends and Family User Testing:
+
+    - Family members were asked to review the site and documentation to point out bugs and issues.
+   
+  Fixed bugs:
+  - incorrectly inserted <h> to <di>, and <figcaption> to <div>
+  - to fix it I surrounded <figcaption> with <figure> and took <h> out of the <div>
+  - incorrectly positioned videos in Media page
+  - to fix it I moved the videos out of the footer
+ 
+    
+ 
     
 
   
