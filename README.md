@@ -61,12 +61,17 @@ The Landing Page:
   
 ![Screenshot 2024-01-19 at 03 29 53](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/36bc574f-127a-4b7b-9eca-9880bd674a6b)
 
+Biography page:
+- Biography page includes an image of Strzelecki, a simplified version of his biography, and an image representing his journey around the world.
+  
 
 
+![Screenshot 2024-01-19 at 02 20 42](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/96960ccf-5c55-4f24-99d0-33fffb314fa4)
 
 
   
-  
+  ![Screenshot 2024-01-19 at 02 21 49](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/6be2a383-300c-47ca-a75b-492602632f0e)
+
     
 
 
