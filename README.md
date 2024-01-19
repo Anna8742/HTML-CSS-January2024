@@ -45,6 +45,18 @@ FREQUENT USER:
 - Mobile:
 - [phone-wireframe.pdf](https://github.com/Anna8742/HTML-CSS-January2024/files/13983811/phone-wireframe.pdf)
 
+FEATURES
+
+Navigation:
+- Navigation bar is fully responsive, includes  Logo and links to Home, Biography, Great Famine, Feedback and Media, all opening in new tab.
+- Dropdown shadow seperates it from rest of the page
+- It's not fixed as the texts are not very long and the page is simplistic, there is no need for that
+- The navigation bar turns into toggle bar when screen is resized
+
+  
+  
+    
+
 
     
 
