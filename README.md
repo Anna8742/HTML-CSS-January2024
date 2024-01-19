@@ -16,5 +16,13 @@ USER STORIES:
 - As a first time user I want to be able to intuitively navigate the website
 - As a first time user I want to be able to read the information without having to register
 
-- 
+RETURNING USER:
+
+- As a returning user I want to be able to easily navigate the website
+
+FREQUENT USER:
+
+- I want to be able to leave feedback and see if that had an impact on change of the website and its content
+
+  
   
