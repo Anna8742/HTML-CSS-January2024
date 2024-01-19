@@ -120,7 +120,12 @@ Features Left to Implement:
 Form Testing:
 - I used codedump to receive feedback back, it worked ok. 
   
+Links Testing:
+- All navigation links were tested manually to ensure they open correctly
+- Social media links were tested manually to ensure they open correctly
 
+  Browser Testing:
+  - The website was tested with standard browsers: Safari, Firefox, Chrome, Microsoft with no issues recorded
 
   
 
