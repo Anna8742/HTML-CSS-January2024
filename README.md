@@ -95,6 +95,33 @@ About Me page:
 
   ![Screenshot 2024-01-19 at 03 37 52](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/77278495-8d58-4759-bdb6-65bb27229aed)
 
+
+Features Left to Implement:
+
+- page were user can find links to external resources about Strzelecki
+
+  TESTING:
+
+  Validator Testing:
+
+  - HTML
+    Passed:
+    <img width="1022" alt="Screenshot 2024-01-19 at 02 35 02" src="https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/d8d36eb0-ca4c-4fa9-9806-7eb04e367add">
+
+  - CSS
+    Passed
+    ![Screenshot 2024-01-19 at 02 37 44](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/839759e6-b29f-48e1-a8c3-f6f565d031b6)
+
+  - Accessibility
+    Passed
+![Screenshot 2024-01-19 at 02 40 37](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/598a2966-d31e-4aee-b483-b2d5383adee1)
+
+
+Form Testing:
+- I used codedump to receive feedback back, it worked ok. 
+  
+
+
   
 
 
