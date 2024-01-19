@@ -40,10 +40,12 @@ FREQUENT USER:
   Wireframes are handwritten and scanned with CamScanner:
 
   - Desktop:
+    
 [desktop-wireframe.pdf](https://github.com/Anna8742/HTML-CSS-January2024/files/13983807/desktop-wireframe.pdf)
 
 - Mobile:
-- [phone-wireframe.pdf](https://github.com/Anna8742/HTML-CSS-January2024/files/13983811/phone-wireframe.pdf)
+  
+ [phone-wireframe.pdf](https://github.com/Anna8742/HTML-CSS-January2024/files/13983811/phone-wireframe.pdf)
 
 FEATURES
 
