@@ -1,4 +1,4 @@
-Anna8742.github.io/HTML-CSS-January2024/  is website that aims to provide basic information about Paul Edmund Strzelecki - forgotten traveler and hero that saved over 200,000 people during Great Famine. 
+Paul Edmund Strzelecki  is website that aims to provide basic information about Paul Edmund Strzelecki - forgotten traveler and hero that saved over 200,000 people during Great Famine. 
 
 The live link can be found here: 
 https://anna8742.github.io/HTML-CSS-January2024/
@@ -136,10 +136,10 @@ Links Testing:
     - Family members were asked to review the site and documentation to point out bugs and issues.
    
   Fixed bugs:
-  - incorrectly inserted <h> to <di>, and <figcaption> to <div>
-  - to fix it I surrounded <figcaption> with <figure> and took <h> out of the <div>
-  - incorrectly positioned videos in Media page
-  - to fix it I moved the videos out of the footer
+  - The '<figcaption>' was surrounded with <div> as a child element.
+  - I fixed <figcaption>  by inserting it into '<figure>'.
+  - The videos in Media page were incorrectly positioned.
+  - I fixed the videos by adding extra margin-top.
  
     Known Bugs
 
