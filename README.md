@@ -126,6 +126,12 @@ Links Testing:
 
   Browser Testing:
   - The website was tested with standard browsers: Safari, Firefox, Chrome, Microsoft with no issues recorded
+ 
+  Device Testing:
+  - The website was viewed on Desktop, Laptop, iPhone XR and Pixel 7 to ensure responsiveness on different screens, it performed as intended. It was also checked with Chrome developer.
+  - Responsinator was also used to test responsiveness.
+ 
+    
 
   
 
