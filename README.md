@@ -80,10 +80,11 @@ Biography page:
 ![Screenshot 2024-01-19 at 02 24 14](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/89420a7c-4b99-40f1-aa8b-4d41fba82ea9)
 
 Feedback page: 
-- Feedback page allows user to leave feedback
+- Feedback page allows user to leave feedback and enter email
+  <img width="1185" alt="Screenshot 2024-01-19 at 11 04 52" src="https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/727e0e82-ce15-42d0-be9b-10120f453531">
 
-![Screenshot 2024-01-19 at 02 25 55](https://github.com/Anna8742/HTML-CSS-
-January2024/assets/31070626/561ad7b9-e555-499a-a2e6-16980d1aa878)
+
+
 
 Media page:
 - Media page allow user to watch 2 videos about Strzelecki
