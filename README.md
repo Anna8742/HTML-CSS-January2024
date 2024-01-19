@@ -72,7 +72,31 @@ Biography page:
   
   ![Screenshot 2024-01-19 at 02 21 49](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/6be2a383-300c-47ca-a75b-492602632f0e)
 
-    
+  Great Famine page:
+  - Great Famine page includes an image of Famine Monument in Dublin and text describing how Strzelecki saved people during it
+
+![Screenshot 2024-01-19 at 02 24 14](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/89420a7c-4b99-40f1-aa8b-4d41fba82ea9)
+
+Feedback page: 
+- Feedback page allows user to leave feedback
+
+![Screenshot 2024-01-19 at 02 25 55](https://github.com/Anna8742/HTML-CSS-
+January2024/assets/31070626/561ad7b9-e555-499a-a2e6-16980d1aa878)
+
+Media page:
+- Media page allow user to watch 2 videos about Strzelecki
+  ![Screenshot 2024-01-19 at 03 37 17](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/588c0de1-b6ac-47d0-9019-f27559a97042)
+
+
+
+About Me page:
+
+- About me page link is situated in the footer, it takes the user to the page introducing the author of the page
+
+  ![Screenshot 2024-01-19 at 03 37 52](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/77278495-8d58-4759-bdb6-65bb27229aed)
+
+  
+
 
 
     
