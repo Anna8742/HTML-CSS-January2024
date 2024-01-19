@@ -30,7 +30,7 @@ FREQUENT USER:
   The imagery used on the website is there to help the user visualize the look of the Strzelecki. The   image of Great Famine is to show the cruelty of that period.
 
   -Colours
-  The colour scheme gold and paperwhite cotransts well, and helps to read the website easily, goes well together and create simplistic look.
+  The colour scheme gold and paperwhite cotransts well, and helps to read the website easily, goes well together and create simplistic look. All pages are designed in exactly the same way to maintain consitency and simplicity. 
  
     -Fonts
   'Noto Serif' is the main font used on the whole website, it was importent from Google Fonts. As a backup serif font  is used.
@@ -52,6 +52,18 @@ Navigation:
 - Dropdown shadow seperates it from rest of the page
 - It's not fixed as the texts are not very long and the page is simplistic, there is no need for that
 - The navigation bar turns into toggle bar when screen is resized
+
+
+![Screenshot 2024-01-19 at 02 16 41](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/61e3642e-7d5f-4d38-897e-07aef13211f3)
+
+The Landing Page:
+- The landing page includes an image of Strzelecki and introduction text explaining why this website is about him. The text contains hyperlink to Great Famine link.
+  
+![Screenshot 2024-01-19 at 03 29 53](https://github.com/Anna8742/HTML-CSS-January2024/assets/31070626/36bc574f-127a-4b7b-9eca-9880bd674a6b)
+
+
+
+
 
   
   
