@@ -26,7 +26,7 @@ body {
     box-sizing: inherit;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
+    
 }
 
 /* wrapper */
