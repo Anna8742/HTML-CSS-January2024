@@ -213,10 +213,11 @@ body {
 
 /*Video */
 .video {
-    width: 100%;
+    width: 30vw;
     height: auto;
     border: 0px solid transparent;
-    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /* feedback */
