@@ -224,6 +224,19 @@ body {
         margin-top: 40px;
 }
 
+/* Container for Videos*/
+.main-content-video {
+    background-color: #d9d9d9;
+    width: 50vw;
+    height: auto;
+    font-size: 16px;
+    border: 2px solid #c0b283;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 10px;
+    box-shadow: 0 3px 3px black;
+}
+
 /* Main content with info about Strzelecki*/
 .main-content {
     background-color: #d9d9d9;
