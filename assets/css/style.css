@@ -219,6 +219,12 @@ body {
     width:40vw;
 }
 
+/* h4 in media.html */
+.h4-media {
+    padding-top: 5vw;
+
+}
+
 /* feedback */
 #feedback {
         margin-top: 40px;
